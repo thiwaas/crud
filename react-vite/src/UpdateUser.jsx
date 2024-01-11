@@ -1,11 +1,12 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 
-function UpdateUser () {
+function UpadateUser (){
     return (
         <div>
-            Update Users
+            Users
         </div>
     )
 }
 
-export default UpdateUser;
+export default UpadateUser;

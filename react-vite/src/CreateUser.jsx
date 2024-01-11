@@ -1,11 +1,12 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 
-function CreateUser () {
+function Users (){
     return (
         <div>
-            Create Users
+            Users
         </div>
     )
 }
 
-export default CreateUser;
+export default Users;
